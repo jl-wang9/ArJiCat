@@ -5,7 +5,7 @@ fruit
 - apple
 - orange
 - pack of grapes
-- avocado
+- strawberry
 
 snack
 - small pack of crisps, lightly salted
