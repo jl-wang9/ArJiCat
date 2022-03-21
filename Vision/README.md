@@ -1,4 +1,4 @@
-# Food Items tested in TeachableMachines(20):
+# Food Items tested in TeachableMachines (18):
 
 fruit
 - pear
@@ -18,7 +18,6 @@ snack
 - wholegrain crackers
 
 water
-- still 50ml
 - still 250ml
 
 drinks
