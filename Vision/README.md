@@ -8,8 +8,8 @@ fruit
 - avocado
 
 snack
-- crisps
-- sandwich
+- small pack of crisps, lightly salted
+- triangular sandwich
 - low-sugar muesli bar
 - chocolate bar
 - dried nuts
