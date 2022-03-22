@@ -3,6 +3,10 @@
   - Downloads images and webpages from Google
 - Image_AI.ipynb
   - Python script to run inference on a trained Classifier using Keras
+- .ZIP files
+  - Contains the Keras trained Classifier model, which can be run in Python
+- .TM files
+  - Teachable Machines project files
 
 # Food Items tested in TeachableMachines (18):
 
