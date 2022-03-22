@@ -1,3 +1,9 @@
+# About files
+- Google Image Scraping.amr and Google Search Scraping.amr
+  - Downloads images and webpages from Google
+- Image_AI.ipynb
+  - Python script to run inference on a trained Classifier using Keras
+
 # Food Items tested in TeachableMachines (18):
 
 fruit
@@ -28,9 +34,23 @@ drinks
 
 ---
 
-# Food Items selected after TeachableMachines (10):
+# Food Items selected after TeachableMachines (8):
 
+fruit
+- pear
+- apple
 
+snack
+- small pack of crisps, lightly salted
+- triangular sandwich
+- low-sugar muesli bar
+
+water
+- still 250ml
+
+drinks
+- apple juice 250ml
+- milk 250ml
 
 ---
 
