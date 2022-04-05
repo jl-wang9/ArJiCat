@@ -1,7 +1,7 @@
 # About files
-- Google Image Scraping.amr and Google Search Scraping.amr
+- `Google Image Scraping.amr` and `Google Search Scraping.amr`
   - Downloads images and webpages from Google
-- Image_AI.ipynb
+- `Image_AI.ipynb`
   - Python script to run inference on a trained Classifier using Keras
 - .ZIP files
   - Contains the Keras trained Classifier model, which can be run in Python
